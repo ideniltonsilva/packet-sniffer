@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+.venv/
+venv/
+.env
+
+# Capturas/Logs
+*.pcap
+*.csv
+*.json
+*.jsonl
+
+# IDE
+.vscode/
+.idea/
